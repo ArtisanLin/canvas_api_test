@@ -1,0 +1,17 @@
+{
+  "name": "canvas_api_test",
+  "version": "1.0.0",
+  "type": "module",
+  "repository": "git@github.com:ArtisanLin/canvas_api_test.git",
+  "author": "陈定涛 <dingtaochen@zhongkehuizhou.com>",
+  "license": "MIT",
+  "dependencies": {
+    "opencv-ts": "^1.3.6",
+    "polygon-clipping": "^0.15.7",
+    "three": "^0.171.0",
+    "@turf/turf": "^7.1.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
